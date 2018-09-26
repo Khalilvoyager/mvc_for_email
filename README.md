@@ -1,4 +1,4 @@
-# joyful-framework
+# framework
 
 A lightweight MVC framework
 
