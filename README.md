@@ -2,6 +2,6 @@
 
 A lightweight MVC framework
 
-joyful是一个轻量级的mvc框架
+这是一个轻量级的mvc框架
 
 build for email
